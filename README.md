@@ -4,7 +4,7 @@ Application web MERN (MongoDB, Express, React, Node.js) pour créer ses recettes
 
 Point clé : les quantités d'un même ingrédient sont additionnées après conversion des unités compatibles. Par exemple, 500 g + 1 kg de farine donnent 1,5 kg.
 
-Projet réalisé seul dans le cadre de la formation. Auteur : <ton nom>.
+Projet réalisé seul dans le cadre de la formation.
 
 ## Sommaire
 
