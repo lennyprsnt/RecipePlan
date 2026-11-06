@@ -333,5 +333,5 @@ recipeplan/
 
 ## 13. Documentation de modélisation
 
-Document complet : [Documentation_Modelisation_RecipePlan.docx](docs/Documentation_Modelisation_RecipePlan.docx)
+Document complet : [Documentation_Modelisation_RecipePlan.docx](docs/Documentation_Modelisation.pdf)
 
