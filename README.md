@@ -333,9 +333,5 @@ recipeplan/
 
 ## 13. Documentation de modélisation
 
-La modélisation de la base de données (MCD, MLD, MPD et diagramme de cas d'utilisation) est regroupée dans un seul schéma :
-
-[Voir la modélisation (Modélisation.png)](docs/Mod%C3%A9lisation.png)
-
-![Modélisation de RecipePlan](docs/Mod%C3%A9lisation.png)
+Document complet : [Documentation_Modelisation_RecipePlan.docx](docs/Documentation_Modelisation_RecipePlan.docx)
 
