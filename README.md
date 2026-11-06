@@ -339,6 +339,3 @@ La modélisation de la base de données (MCD, MLD, MPD et diagramme de cas d'uti
 
 ![Modélisation de RecipePlan](docs/Mod%C3%A9lisation.png)
 
-Le fichier source modifiable avec draw.io est [docs/Modélisation.drawio](docs/Mod%C3%A9lisation.drawio).
-
-Note : la modélisation suit la méthode Merise (modèle relationnel). Dans l'application, les données sont stockées dans MongoDB sous forme de trois collections (`users`, `recipes`, `plans`). Les ingrédients d'une recette et les repas d'un planning y sont intégrés dans le document parent, à la place des tables `Composer`, `Etape` et `Repas_Planifie`.
